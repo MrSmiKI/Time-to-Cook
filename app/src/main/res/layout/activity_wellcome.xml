@@ -25,7 +25,7 @@
         android:textColor="#FE836E"
         android:fontFamily="@font/bold"
         android:textSize="56sp"
-        android:layout_marginBottom="300dp"/>
+        android:layout_marginBottom="200dp"/>
 
     <Button
 
